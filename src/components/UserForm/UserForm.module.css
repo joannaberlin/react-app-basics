@@ -1,0 +1,28 @@
+.form {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}
+
+.form input {
+	display: block;
+	width: 100%;
+	border: 1px solid #ccc;
+	line-height: 1.5rem;
+	padding: 0 0.25rem;
+}
+
+.form label {
+	margin-bottom: 0.5rem;
+	font-weight: 500;
+}
+
+.form_wrapper {
+	background-color: white;
+	width: 40vw;
+	margin: 3rem auto;
+	padding: 20px;
+	border-radius: 10px;
+	/* box-shadow: 4px 8px 12px rgba(228, 227, 227, 0.2); */
+}
