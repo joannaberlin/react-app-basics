@@ -1,0 +1,9 @@
+.text {
+	background-color: white;
+	padding: 5px;
+	border: 1px solid #ccc;
+	font-weight: 500;
+	list-style: none;
+	margin-bottom: 8px;
+	cursor: pointer;
+}
